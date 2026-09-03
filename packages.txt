@@ -1,0 +1,5 @@
+tesseract-ocr
+tesseract-ocr-jpn
+tesseract-ocr-eng
+poppler-utils
+fonts-noto-cjk
