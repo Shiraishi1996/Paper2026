@@ -1,0 +1,10 @@
+[server]
+maxUploadSize = 2000
+enableXsrfProtection = true
+enableCORS = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
